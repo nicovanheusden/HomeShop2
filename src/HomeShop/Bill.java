@@ -8,7 +8,7 @@ import java.util.Map;
 public class Bill {
     Customer customer;
     private Map<Product, Integer> products = new HashMap<>();
-    Delivery delivery
+    Delivery delivery;
 
     public Bill(Customer customer, Delivery delivery) {
         this.customer = customer;
