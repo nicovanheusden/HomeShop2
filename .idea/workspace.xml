@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="553ca09c-a452-41d1-b811-a79b0243a3d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/DirectDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/ExpressDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/RelayDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/TakeAwayDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/HomeShop/ExpressDeliveryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/HomeShop/RelayDeliveryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/DirectDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/DirectDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/ExpressDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/ExpressDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/RelayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/RelayDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/TakeAwayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/TakeAwayDelivery.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +24,7 @@
       <list>
         <option value="Class" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -31,7 +36,25 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="HomeShop" />
+      <recent name="HomeShop.Delivery" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="HomeShop" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566854805143</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding package Delivery">
+      <created>1566854992117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566854992117</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +133,7 @@
     <MESSAGE value="added classes Fridge and Television" />
     <MESSAGE value="added class main and make products private in Bill" />
     <MESSAGE value="adding package Paris to explain contrat" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding package Paris to explain contrat" />
+    <MESSAGE value="adding package Delivery" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding package Delivery" />
   </component>
 </project>
