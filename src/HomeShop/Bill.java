@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Bill {
     Customer customer;
-    Map<Product, Integer> products = new HashMap<>();
+    private Map<Product, Integer> products = new HashMap<>();
 
     public Bill(Customer customer) {
         this.customer = customer;
