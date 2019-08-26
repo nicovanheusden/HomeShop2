@@ -1,14 +1,18 @@
 package HomeShop;
 
+import HomeShop.Delivery.Delivery;
+
 import java.util.HashMap;
 import java.util.Map;
 
 public class Bill {
     Customer customer;
     private Map<Product, Integer> products = new HashMap<>();
+    Delivery delivery
 
-    public Bill(Customer customer) {
+    public Bill(Customer customer, Delivery delivery) {
         this.customer = customer;
+        this.delivery = delivery;
     }
 
     /**

@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="553ca09c-a452-41d1-b811-a79b0243a3d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/HomeShop/ExpressDeliveryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/HomeShop/RelayDeliveryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeShop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Bill.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/DirectDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/DirectDelivery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/ExpressDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/ExpressDelivery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/RelayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/RelayDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/TakeAwayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/TakeAwayDelivery.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566854992117</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding test for 2 relay and express Delivery">
+      <created>1566855898110</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566855898110</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +136,7 @@
     <MESSAGE value="added class main and make products private in Bill" />
     <MESSAGE value="adding package Paris to explain contrat" />
     <MESSAGE value="adding package Delivery" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding package Delivery" />
+    <MESSAGE value="adding test for 2 relay and express Delivery" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding test for 2 relay and express Delivery" />
   </component>
 </project>
