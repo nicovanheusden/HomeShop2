@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="553ca09c-a452-41d1-b811-a79b0243a3d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/HomeShop/BillTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeShop/Writer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeShop/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Bill.java" afterDir="false" />
     </list>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566856110082</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="forgot the ; on bill">
+      <created>1566856160769</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1566856160769</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +151,7 @@
     <MESSAGE value="adding package Delivery" />
     <MESSAGE value="adding test for 2 relay and express Delivery" />
     <MESSAGE value="writing override method and constructor on the Deliveries" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing override method and constructor on the Deliveries" />
+    <MESSAGE value="forgot the ; on bill" />
+    <option name="LAST_COMMIT_MESSAGE" value="forgot the ; on bill" />
   </component>
 </project>
