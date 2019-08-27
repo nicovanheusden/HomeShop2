@@ -2,18 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="553ca09c-a452-41d1-b811-a79b0243a3d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeShop/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeShop/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeShop/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Delivery/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeShop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeShop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/HomeShop/BillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/HomeShop/BillTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/Delivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/DirectDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/ExpressDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/RelayDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Delivery/TakeAwayDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/FileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Fridge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeShop/Writer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paris/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paris/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paris/MoyenDeLocomotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paris/Parisien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paris/Taxi.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HomeShop" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,6 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -138,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566856601588</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new class FileWriter to write on a file&#10;modified bill and customer&#10;adapt main to the new bill&#10;new Principal method generate">
+      <created>1566857127144</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1566857127144</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +192,8 @@
     <MESSAGE value="writing override method and constructor on the Deliveries" />
     <MESSAGE value="forgot the ; on bill" />
     <MESSAGE value="create interface writter and test for bill" />
-    <option name="LAST_COMMIT_MESSAGE" value="create interface writter and test for bill" />
+    <MESSAGE value="new class FileWriter to write on a file&#10;modified bill and customer&#10;adapt main to the new bill" />
+    <MESSAGE value="new class FileWriter to write on a file&#10;modified bill and customer&#10;adapt main to the new bill&#10;new Principal method generate" />
+    <option name="LAST_COMMIT_MESSAGE" value="new class FileWriter to write on a file&#10;modified bill and customer&#10;adapt main to the new bill&#10;new Principal method generate" />
   </component>
 </project>
